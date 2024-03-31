@@ -61,6 +61,15 @@ This project is built using a wide range of technologies and libraries, focusing
 
 This diverse set of technologies ensures that the system is robust, scalable, and capable of meeting the complex requirements of managing production processes for platforms like Wildberries and Ozon.
 
+**Demo version:**
+![image](https://github.com/ogabek0302/Ukam-PMS/assets/69362879/59e94998-35c4-4a79-920a-b184880f4eb7)
+https://www.youtube.com/watch?v=PE2lGSKAt7Y&t
+
+**Full version**
+![image](https://github.com/ogabek0302/Ukam-PMS/assets/69362879/1bba691c-6e6b-4bdb-808d-7fac7ffbc2a0)
+https://www.youtube.com/watch?v=ZPCXszrUcI8
+
+
 contacts to get demo version:
 gmail: ogobekodilbek@gmail.com
 telgramm: https://t.me/ukam_admin
